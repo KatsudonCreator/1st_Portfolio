@@ -26,6 +26,7 @@ html, body {
 }
 .profile p {
     margin: 30px;
+    margin-bottom: 100px;
 }
 .contents h2 {
     font-size: 40px;
