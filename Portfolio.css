@@ -27,6 +27,10 @@ html, body {
 .profile p {
     margin: 10px;
 }
+.profile h4 {
+    float: left;
+    padding: 10px 20px;
+}
 .contents h3 {
     margin-top: 10px;
     border-bottom: 2px solid gray;
