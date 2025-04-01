@@ -27,6 +27,9 @@ html, body {
 .profile p {
     margin: 30px;
 }
+.profile h4 {
+    margin-top: 10px;
+}
 .contents h3 {
     border-bottom: 2px solid gray;
 }
