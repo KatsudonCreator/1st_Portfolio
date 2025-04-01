@@ -29,10 +29,13 @@ html, body {
 }
 .profile h4 {
     float: left;
-    padding: 10px 20px;
+    padding: 5px 20px 5px 0px;
+}
+.contents h2 {
+    margin-top: 30px;
 }
 .contents h3 {
-    margin-top: 10px;
+    margin-top: 20px;
     border-bottom: 2px solid gray;
 }
 img {
